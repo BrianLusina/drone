@@ -1,0 +1,18 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - eslint > debug:
+        patched: '2020-04-21T07:28:12.600Z'
+    - xo > debug:
+        patched: '2020-04-21T07:28:12.600Z'
+    - xo > eslint > debug:
+        patched: '2020-04-21T07:28:12.600Z'
+    - xo > eslint-plugin-import > debug:
+        patched: '2020-04-21T07:28:12.600Z'
+    - xo > eslint-plugin-import > eslint-import-resolver-node > debug:
+        patched: '2020-04-21T07:28:12.600Z'
+    - xo > eslint-plugin-import > eslint-module-utils > debug:
+        patched: '2020-04-21T07:28:12.600Z'
