@@ -39,8 +39,8 @@
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
-    "eslint": "^4.3.0",
-    "xo": "^0.18.2"
+    "eslint": "^5.0.0",
+    "xo": "^0.20.0"
   },
   "repository": {
     "type": "git",
