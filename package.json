@@ -23,7 +23,7 @@
     "analytics-node": "^3.0.0",
     "chalk": "^2.4.2",
     "filehound": "^1.17.4",
-    "find-in-files": "^0.4.0",
+    "find-in-files": "^0.5.0",
     "fs-extra": "^4.0.1",
     "github-project-inspector": "^0.1.1",
     "homedir": "^0.6.0",
