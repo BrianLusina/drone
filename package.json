@@ -36,8 +36,8 @@
     "opn": "^5.5.0",
     "shelljs": "^0.8.4",
     "string-search": "^1.2.0",
-    "string-similarity": "^1.2.0",
     "update-notifier": "^4.1.1",
+    "string-similarity": "^4.0.2",
     "xml2js": "^0.4.23",
     "snyk": "^1.370.1"
   },
