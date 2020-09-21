@@ -39,7 +39,7 @@
     "update-notifier": "^4.1.1",
     "string-similarity": "^4.0.2",
     "xml2js": "^0.4.23",
-    "snyk": "^1.393.0"
+    "snyk": "^1.398.1"
   },
   "devDependencies": {
     "eslint": "^5.0.0",
