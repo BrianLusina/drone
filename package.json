@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "eslint": "^5.0.0",
-    "xo": "^0.33.1"
+    "xo": "^0.34.0"
   },
   "repository": {
     "type": "git",
