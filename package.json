@@ -20,7 +20,7 @@
   "main": "index.js",
   "keywords": [],
   "dependencies": {
-    "analytics-node": "^3.0.0",
+    "analytics-node": "^3.5.0",
     "chalk": "^2.4.2",
     "filehound": "^1.17.4",
     "find-in-files": "^0.5.0",
