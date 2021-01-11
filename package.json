@@ -37,7 +37,7 @@
     "shelljs": "^0.8.4",
     "string-search": "^1.2.0",
     "update-notifier": "^5.0.1",
-    "string-similarity": "^4.0.3",
+    "string-similarity": "^4.0.4",
     "xml2js": "^0.4.23",
     "snyk": "^1.437.3"
   },
