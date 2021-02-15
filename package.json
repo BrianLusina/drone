@@ -36,7 +36,7 @@
     "opn": "^5.5.0",
     "shelljs": "^0.8.4",
     "string-search": "^1.2.0",
-    "update-notifier": "^5.0.1",
+    "update-notifier": "^5.1.0",
     "string-similarity": "^4.0.4",
     "xml2js": "^0.4.23",
     "snyk": "^1.440.1"
